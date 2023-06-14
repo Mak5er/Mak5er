@@ -9,6 +9,8 @@
 <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+<br>
+<br>
 
 <p>
  <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mak5er&show_icons=true&theme=dark" />
