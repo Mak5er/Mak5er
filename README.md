@@ -9,12 +9,10 @@
 <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<details>
-  <summary>:zap: <b>GitHub stats</b></summary>
-  <p>
-   <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mak5er&show_icons=true&theme=dark" />
-   <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mak5er&layout=compact&theme=dark" />  
-   <br>
-   <img align="middle" src="https://metrics.lecoq.io/Mak5er" />
-  </p>
-</details>
+
+<p>
+ <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mak5er&show_icons=true&theme=dark" />
+ <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mak5er&layout=compact&theme=dark" />  
+ <br>
+ <img align="middle" src="https://metrics.lecoq.io/Mak5er" />
+</p>
