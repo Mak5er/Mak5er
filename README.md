@@ -13,7 +13,7 @@
 <br>
 
 <p>
- <img align="middle"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mak5er&show_icons=true&theme=dark" />
+ <img align="center"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mak5er&show_icons=true&theme=dark" />
  <br>
- <img align="middle" src="https://metrics.lecoq.io/Mak5er" />
+ <img align="center" src="https://metrics.lecoq.io/Mak5er" />
 </p>
