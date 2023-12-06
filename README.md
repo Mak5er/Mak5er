@@ -18,6 +18,4 @@
  <img align="center"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mak5er&theme=dark" /><br>
  <br>
  <img align="center"  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mak5er&show_icons=true&theme=dark" /><br>
- <br>
- <img align="center" src="https://metrics.lecoq.io/Mak5er" />
 </p>
