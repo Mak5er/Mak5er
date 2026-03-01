@@ -55,6 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mak5er/Mak5er/output/snake.svg" alt="Snake animation" />
+<img src="assets/github-snake.svg" alt="Snake animation" />
 
 ###
